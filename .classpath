@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-websocket-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-web-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-webmvc-portlet-4.3.28.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-webmvc-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-tx-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-test-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-oxm-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-orm-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-messaging-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-jms-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-jdbc-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-instrument-tomcat-4.3.28.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-instrument-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-expression-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-core-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-context-support-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-context-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-beans-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-aspects-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/shahh/Downloads/spring-aop-5.2.8.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
